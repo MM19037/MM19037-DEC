@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# MM19037-DEC
-Repositorio para adjuntar ejercicios planteados de la Semana 10. 
-=======
 PORFATOLIO DE EJERCICIOS EN NASM
 
 - El respositorio contiene 3 programas para realizar operaciones aritmeticas en ensamblador con NASM. Estos programas estan separados en carpetas donde puedes encontrar el codigo fuente y el ejecutable.
@@ -22,4 +18,3 @@ PORFATOLIO DE EJERCICIOS EN NASM
 
 - Contacto: mm19037@ues.edu.sv
 - Contribucion: Nelson Moran
->>>>>>> 818e62b (Adjuntando archivo README)
